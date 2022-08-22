@@ -23,7 +23,7 @@
   
 <img align="left" alt="TypeScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" />
  
-<img align="left" alt="JavaScript" width="40px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1661191860~hmac=76fb531d36f4e1e5dde1f041ae2a4f45" style="padding-right:10px;" />
+<img align="left" alt="React" width="40px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1661191860~hmac=76fb531d36f4e1e5dde1f041ae2a4f45" style="padding-right:10px;" />
 
 <img align="left" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" style="padding-right:10px;"/>
   
