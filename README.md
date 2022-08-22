@@ -17,7 +17,7 @@
 <p>
   <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   
-  <img align="left" alt="JavaScript" width="40px" src="<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; />
+  <img align="left" alt="JavaScript" width="40px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1661191860~hmac=76fb531d36f4e1e5dde1f041ae2a4f45" style="padding-right:10px;" />
   
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/>
   <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
