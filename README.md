@@ -33,7 +33,7 @@
   
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<img aligh="left" alt="NodeJS" width="40px"  src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="padding-right:10px;">
+<img aligh="left" alt="NodeJS" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
   
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/>
 </p>
