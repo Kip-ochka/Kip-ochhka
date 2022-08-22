@@ -1,4 +1,4 @@
-# Привет, меня зовут Игорь!:wave:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+my+name+is+Igor!)](https://git.io/typing-svg):wave:
 <p align="center">
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
