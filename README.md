@@ -9,6 +9,9 @@
 #### :100: Хочу работать в лучшей команде!
 #### :fireworks: Изучаю новые библеотеки и фреймворки!
 #### :dart: Хочу научиться писать чистый, читабельный код и перенимать лучшие практики!
-<hr>
+
+<hr/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+стек:)](https://git.io/typing-svg)
+
 <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
