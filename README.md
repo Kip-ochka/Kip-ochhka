@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+my+name+is+Igor!)](https://git.io/typing-svg):wave:
+# <p align='center'>Привет, меня зову игорь!:wave:</p>
 <p align="center">
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
@@ -11,3 +11,4 @@
 #### :dart: Хочу научиться писать чистый, читабельный код и перенимать лучшие практики
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+my+name+is+Igor!)](https://git.io/typing-svg)
