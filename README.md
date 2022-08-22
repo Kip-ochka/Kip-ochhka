@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
 
-<p align="center">
-  #### :radio_button: Я хочу научиться создавать лучшие интерфейсы!
+ #### <p align="center">
+ :radio_button: Я хочу научиться создавать лучшие интерфейсы!
 </p>
 
 
