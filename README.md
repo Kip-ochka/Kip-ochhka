@@ -16,7 +16,7 @@
 
 <a href="https://t.me/Kip_ochka"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>
 <a href="mailto:gragass@yandex.ru"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png"></a>
-
+<a href="www.linkedin.com/in/igor-kolpakov"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <hr/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+стек:)](https://git.io/typing-svg)
