@@ -39,3 +39,6 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
   
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kip-ochka)](https://github.com/anuraghazra/github-readme-stats)
