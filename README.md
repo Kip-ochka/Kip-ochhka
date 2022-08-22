@@ -1,4 +1,4 @@
-![Супер не тривиальная гифка со стилем]([https://thumbs.gfycat.com/FewWhimsicalCassowary-size_restricted.gif](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uz9xn6avaz8nmi77731y1uliut5domzjurozere6&rid=giphy.gif&ct=g))
+![Супер не тривиальная гифка со стилем]((https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47uz9xn6avaz8nmi77731y1uliut5domzjurozere6&rid=giphy.gif&ct=g))
 
 # Привет, меня зовут Игорь!:wave:
 
