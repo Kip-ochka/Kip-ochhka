@@ -12,4 +12,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+my+name+is+Igor!)](https://git.io/typing-svg)
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
