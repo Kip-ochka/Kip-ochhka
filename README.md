@@ -1,7 +1,8 @@
+# Привет, меня зовут Игорь!:wave:
 <p align="center">
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
-# Привет, меня зовут Игорь!:wave:
+
 
 #### :radio_button: Я хочу научиться создавать лучшие интерфейсы!
 #### :office: Стремлюсь работать на настоящих коммерческих проектах!
