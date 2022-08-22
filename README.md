@@ -13,7 +13,8 @@
 <hr/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мои+контакты:)](https://git.io/typing-svg)
-<a href="t.me/Kip-ochka"><img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>
+
+<a href="https://t.me/kipoFrontend"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></a>
 
 
 <hr/>
