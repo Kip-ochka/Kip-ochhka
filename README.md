@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/VHHxxFAeLaYzS/giphy.gif?cid=ecf05e47n3vzovxm4gbdyxxdvfpzmhda2t9lgreh0n59u4a5&rid=giphy.gif&ct=g">
+  <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
 # Привет, меня зовут Игорь!:wave:
 
