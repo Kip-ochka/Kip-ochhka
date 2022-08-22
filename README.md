@@ -1,3 +1,5 @@
+![Супер не тривиальная гифка со стилем](https://thumbs.gfycat.com/FewWhimsicalCassowary-size_restricted.gif)
+
 # Привет, меня зовут Игорь!:wave:
 
 #### :radio_button: Я хочу научиться создавать лучшие интерфейсы!
@@ -6,4 +8,4 @@
 #### :fireworks: Изучаю новые библеотеки и фреймворки!
 #### :dart: Хочу научиться писать чистый, читабельный код и перенимать лучшие практики
 
-![Супер не тривиальная гифка со стилем](https://thumbs.gfycat.com/FewWhimsicalCassowary-size_restricted.gif)
+
