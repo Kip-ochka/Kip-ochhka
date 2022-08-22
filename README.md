@@ -12,6 +12,12 @@
 
 <hr/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мои+контакты:)](https://git.io/typing-svg)
+
+
+
+<hr/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+стек:)](https://git.io/typing-svg)
 
 <p>
@@ -40,10 +46,10 @@
   
 </p>
 
-<hr>
+<hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kip-ochka&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kip-ochka&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
