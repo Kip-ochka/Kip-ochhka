@@ -17,6 +17,8 @@
 <p>
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
+<img aligh="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
+  
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
@@ -33,7 +35,5 @@
   
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img aligh="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
-  
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding-right:10px;"/>
 </p>
