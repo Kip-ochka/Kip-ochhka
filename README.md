@@ -25,7 +25,7 @@
  
 <img align="left" alt="JavaScript" width="40px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1661191860~hmac=76fb531d36f4e1e5dde1f041ae2a4f45" style="padding-right:10px;" />
 
-<img align="left" src="https://e7.pngegg.com/pngimages/413/852/png-clipart-redux-react-logo-javascript-dq-purple-violet-thumbnail.png" alt="redux" width="40" height="40" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" style="padding-right:10px;"/>
   
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
   
