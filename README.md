@@ -1,4 +1,4 @@
-# <p align='center'>Привет, меня зову Игорь!:wave:</p>
+# <p align='center'>Привет, меня зовут Игорь!:wave:</p>
 <p align="center">
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif">
 </p>
