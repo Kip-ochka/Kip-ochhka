@@ -27,10 +27,8 @@
 
 <p>
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  
-<img aligh="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
-  
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
   
@@ -43,7 +41,11 @@
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  />
   
 <img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
-  
+
+<img aligh="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
+
+<img aligh="left" alt="Express" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
+
 </p>
 
 <hr/>
