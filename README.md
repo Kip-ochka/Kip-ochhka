@@ -44,8 +44,6 @@
 
 <img aligh="left" alt="NodeJS" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
 
-<img aligh="left" alt="Express" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" >
-
 </p>
 
 <hr/>
